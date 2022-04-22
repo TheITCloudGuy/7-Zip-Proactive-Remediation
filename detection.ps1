@@ -1,4 +1,4 @@
-﻿try
+try
 {  
 
 $7ZipInstalled = Test-Path 'C:\Program Files\7-Zip\7-zip.chm'
